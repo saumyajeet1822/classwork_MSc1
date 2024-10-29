@@ -1,0 +1,11 @@
+Strlen - find length of a string.
+strlwr - convert a string to lower case
+strupr - convert a string in uppercase
+strcat - appends the strings at the end of another.
+strcpy - copies a string into another 
+strncpy - copies first string into another.
+Strncpy - copies first n character another.
+strcomp - compare two strings
+strcompi - compare first n character of two strings
+stricmp - compare two strings without regard to case
+strdup - duplicate a strings
